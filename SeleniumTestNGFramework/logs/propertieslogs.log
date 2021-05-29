@@ -1,0 +1,8 @@
+[INFO ] 2021-05-30 02:50:53.437 [main] LoggerDemo - This is info message
+[ERROR] 2021-05-30 02:50:53.441 [main] LoggerDemo - This is error message
+[FATAL] 2021-05-30 02:50:53.441 [main] LoggerDemo - This is fatal message
+[DEBUG] 2021-05-30 02:50:53.441 [main] LoggerDemo - This is debug message
+2021-05-30 02:55:14.988 [main] LoggerDemo - This is info message
+2021-05-30 02:55:14.992 [main] LoggerDemo - This is error message
+2021-05-30 02:55:14.993 [main] LoggerDemo - This is fatal message
+2021-05-30 02:55:14.993 [main] LoggerDemo - This is debug message

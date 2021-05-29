@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="16012" started-at="2021-05-30T02:31:24 IST" finished-at="2021-05-30T02:31:40 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="16012" started-at="2021-05-30T02:31:24 IST" finished-at="2021-05-30T02:31:40 IST">
+      <class name="testCases.BrowserTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.BrowserTest@12f41634]" name="setup" is-config="true" duration-ms="3241" started-at="2021-05-30T02:31:24 IST" finished-at="2021-05-30T02:31:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:testCases.BrowserTest@12f41634]" name="startTest" duration-ms="5174" started-at="2021-05-30T02:31:29 IST" finished-at="2021-05-30T02:31:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:testCases.BrowserTest@12f41634]" name="tearDownTest" is-config="true" duration-ms="4980" started-at="2021-05-30T02:31:34 IST" finished-at="2021-05-30T02:31:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- testCases.BrowserTest -->
+      <class name="testCases.BrowserTest2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.BrowserTest2@1e7c7811]" name="setup" is-config="true" duration-ms="1779" started-at="2021-05-30T02:31:27 IST" finished-at="2021-05-30T02:31:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="startTest1()[pri:0, instance:testCases.BrowserTest2@1e7c7811]" name="startTest1" duration-ms="16" started-at="2021-05-30T02:31:29 IST" finished-at="2021-05-30T02:31:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest1 -->
+        <test-method status="PASS" signature="startTest2()[pri:0, instance:testCases.BrowserTest2@1e7c7811]" name="startTest2" duration-ms="16" started-at="2021-05-30T02:31:29 IST" finished-at="2021-05-30T02:31:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest2 -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:testCases.BrowserTest2@1e7c7811]" name="tearDownTest" is-config="true" duration-ms="771" started-at="2021-05-30T02:31:39 IST" finished-at="2021-05-30T02:31:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- testCases.BrowserTest2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

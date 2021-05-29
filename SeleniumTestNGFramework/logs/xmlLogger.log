@@ -1,0 +1,4 @@
+2021-05-30 03:06:06.083 [main] LoggerDemo - This is info message
+2021-05-30 03:06:06.089 [main] LoggerDemo - This is error message
+2021-05-30 03:06:06.089 [main] LoggerDemo - This is fatal message
+2021-05-30 03:06:06.089 [main] LoggerDemo - This is debug message
