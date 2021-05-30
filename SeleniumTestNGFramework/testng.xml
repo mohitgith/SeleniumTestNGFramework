@@ -5,6 +5,9 @@
 		<classes>
 			<class name="testCases.BrowserTest" />
 			<class name="testCases.BrowserTest2">
+			<methods>
+			<include name="startTest2"></include>
+			</methods>
 			</class>
 		</classes>
 	</test>

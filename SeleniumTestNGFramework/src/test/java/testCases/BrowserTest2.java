@@ -30,6 +30,12 @@ public class BrowserTest2 {
 	@Test
 	public void startTest1() {
 		System.out.println("startTest1");
+		GoogleSearchTest googleSearchTestObj1 =  new GoogleSearchTest(driver);
+		
+		driver.get("https://www.google.com/");
+		
+		googleSearchTestObj1.enterTheTextInGoogleSearchBox("Amazon Prime Video");
+		googleSearchTestObj1.clickOnGoogleSearchButton();
 	}
 
 	@Test
